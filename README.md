@@ -176,9 +176,11 @@ Final product will be assessed on the following metrics:
 
 
 * Thanks for the challenge!
+<br/>
+<br/>
+<br/>
 
 ### Copyright
 
-
-
-Gabriela Olivares. Data Boot Camp © 2020. All Rights Reserved.
+##### © 2020 Gabriela Loami Olivares Martinez, BootCamp Tecnologico de Monterrey.
+##### © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. 
