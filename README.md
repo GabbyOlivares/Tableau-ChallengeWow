@@ -155,7 +155,9 @@ Final product will be assessed on the following metrics:
 
 [Tableau Scatter Plot](https://interworks.com/blog/ccapitula/2015/04/30/tableau-essentials-calculated-fields-type-conversion/)
 
+[Tableau Calculated Fields](https://interworks.com/blog/ccapitula/2015/04/30/tableau-essentials-calculated-fields-type-conversion/)
 
+[Tableau Destination Map with more than one stop](https://www.youtube.com/watch?v=D1FEve2-3cE)
 
 
 
