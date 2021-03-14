@@ -149,6 +149,13 @@ Final product will be assessed on the following metrics:
 
 * Visual Attraction
 
+## Resources
+
+[Tableau Scatter Plot](https://www.youtube.com/watch?v=KuwLzBmRaIs) 
+
+
+
+
 
 ## Challenge milestones!
 
